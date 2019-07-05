@@ -156,4 +156,4 @@ const Login = () => import('@/pages/Login')
 - 所有代码中出现的阿拉巴数字需要给出注释
 - 程序中出现加密/解密逻辑的操作地方，需要给出注释说明过程
 
-[前端团队代码评审 CheckList 清单]('https://juejin.im/post/5d1c6550518825330a3bfa01')
+[前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
